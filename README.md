@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   
   ***
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vpdls1511&bg_color=DEG,1cd8d2,93edc7)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vpdls1511&bg_color=DEG,93edc7,1cd8d2)](https://github.com/anuraghazra/github-readme-stats)
 
 
   
