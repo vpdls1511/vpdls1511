@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=Bloglovin&logoColor=white">
-<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=Notion&logoColor=white">
+<a href="webaura.tistory.com"><img src="https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=Bloglovin&logoColor=white"> </a>
+<a href="https://ngyu.notion.site/5c51addf60c74a64b8ddd43a0834dc67"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vpdls1511)](https://github.com/anuraghazra/github-readme-stats)
