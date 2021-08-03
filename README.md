@@ -1,7 +1,5 @@
 <div align="center">
   
- ***  
-  
   🧑🏼‍💻CONTACT / SNS
   
   <a href="webaura.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=Bloglovin&logoColor=white"> </a>
