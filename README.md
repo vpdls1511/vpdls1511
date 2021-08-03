@@ -3,7 +3,7 @@
   <a href="webaura.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=Bloglovin&logoColor=white"> </a>
   <a href="https://ngyu.notion.site/5c51addf60c74a64b8ddd43a0834dc67" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
   
-  ### ✍️SKILLS
+  ##✍️SKILLS
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
