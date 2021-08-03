@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=Bloglovin&logoColor=white">
-
+<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=Notion&logoColor=white">
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vpdls1511)](https://github.com/anuraghazra/github-readme-stats)
