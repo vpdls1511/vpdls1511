@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=welcome!&color=gradient&customColorList=0&height=150&fontAlign=16&fontAlignY=30&fontSize=50)
 
-> 오늘보다 내일, 내일보다 모레, 미래를 생각하는 김남규 입니다.  
-> This is Kim Nam-gyu who thinks more about tomorrow than today, the day after tomorrow, and the future. ``translate to Google``
+> **오늘보다 내일, 내일보다 모레, 미래를 생각하는 김남규 입니다.**  
+> **This is Kim Nam-gyu who thinks more about tomorrow than today, the day after tomorrow, and the future.** ``translate to Google``
 
 
 - "왜" 라는 키워드로 공부를 합니다.
