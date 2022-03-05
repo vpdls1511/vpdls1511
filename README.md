@@ -23,5 +23,4 @@ Notion -> [Studying](https://ngyu.notion.site/f840998f2af94568b4dc36d4c16cffe7)
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=vpdls1511)
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=vpdls15)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vpdls15)](https://solved.ac/vpdls15/)
