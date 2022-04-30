@@ -16,9 +16,6 @@
 ## 기록
 Tech Blog -> [Velog](https://velog.io/@vpdls1511)  
 Notion -> [Studying](https://ngyu.notion.site/f840998f2af94568b4dc36d4c16cffe7)  
-
-`꾸준함의 증거로 1일 1커밋을 하기 위해 노력하고 있습니다.`
-
 ***
 
 
