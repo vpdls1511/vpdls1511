@@ -10,14 +10,13 @@
 - 함께 성장하는것을 지향합니다.
 - 꾸준히 공부하려고 하고 있습니다.
 
+<br/>
 
-
-***
 ## 기록
 Tech Blog -> [Velog](https://velog.io/@vpdls1511)  
 Notion -> [Studying](https://ngyu.notion.site/f840998f2af94568b4dc36d4c16cffe7)  
-***
 
+<br/>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=vpdls1511)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vpdls15)](https://solved.ac/vpdls15/)
