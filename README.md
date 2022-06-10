@@ -10,6 +10,11 @@
 - 함께 성장하는것을 지향합니다.
 - 꾸준히 공부하려고 하고 있습니다.
 
+<details>
+<summary>🎤 InterView</summary>
+  <a href="https://www.jj.ac.kr/smart/community/gallery.jsp?mode=view&article_no=397514"> 기말고사를 대비하며 JUST 기장님이 주시는 시험공부 꿀팁 </a>
+</details>
+
 <br/>
 
 ## 기록
