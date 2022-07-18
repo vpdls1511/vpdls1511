@@ -19,7 +19,6 @@
 
 ## 기록
 Tech Blog -> [Velog](https://velog.io/@vpdls1511)  
-Notion -> [Studying](https://ngyu.notion.site/f840998f2af94568b4dc36d4c16cffe7)  
 
 <br/>
 
