@@ -10,7 +10,7 @@
 
 <details>
 <summary>🎤 InterView</summary>
-  <a href="https://www.jj.ac.kr/smart/community/gallery.jsp?mode=view&article_no=397514"> 기말고사를 대비하며 JUST 기장님이 주시는 시험공부 꿀팁 </a>
+  <a href="https://smart.jj.ac.kr/smart/community/gallery.do?mode=view&articleNo=84027&article.offset=16&articleLimit=8"> 기말고사를 대비하며 JUST 기장님이 주시는 시험공부 꿀팁 </a>
 </details>
 
 <br/>
